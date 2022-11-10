@@ -11,7 +11,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@color/purple_500"
-        android:onClick="showToast"
+        android:onClick="launchSecondActivity"
         android:text="@string/button_label_toast"
         android:textColor="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
